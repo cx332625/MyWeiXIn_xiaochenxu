@@ -1,0 +1,17 @@
+## .NET Build Artifacts
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.nupkg
+
+## Logs
+*.log
+
+## User secrets
+secrets.json
+
+## OS
+.DS_Store
+Thumbs.db
